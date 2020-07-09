@@ -20,12 +20,13 @@
   /-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/ /
 /-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/ /
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                      _           _
+                                     | |         | |
+ _ __ ___  _   _  __      _____  _ __| | __      | |
+| '_ ` _ \| | | | \ \ /\ / / _ \| '__| |/ /      | |
+| | | | | | |_| |  \ V  V / (_) | |  |   <      _| |_
+|_| |_| |_|\__, |   \_/\_/ \___/|_|  |_|\_\     \   /
+            __/ |                                \ /
+           |___/                           
 
-- 💻 I'm a developer professionally 
-- 🎮 I'm also enjoy development as a hobby. One of my passions is game development 
 
-## Some links to see more of my work:
-- 🏡 [isaacbroyles.com](https://isaacbroyles.com)
-- 🐦 [twitter](https://twitter.com/isaacbroyles)
-- ⌨ [DEV](https://dev.to/isaacbroyles)
-- 📷 [instagram](https://www.instagram.com/isaacbroyles/)
